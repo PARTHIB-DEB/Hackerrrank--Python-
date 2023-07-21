@@ -1,7 +1,7 @@
 
 # PROGRAMS OF HACKERRANK
 
-A repository where I Solve Leetcode Problems using Python
+A repository where I Solve Hackerrank Problems using Python
 
 
 ## 🔗 My Hackerrank
